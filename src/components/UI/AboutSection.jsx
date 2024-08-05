@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "reactstrap";
 import "../../styles/about-section.css";
-import aboutImg from "../../assets/all-images/cars-img/Tripathi Travels.png";
+import aboutImg from "../../assets/all-images/cars-img/car.png";
 
 const AboutSection = ({ aboutClass }) => {
   return (
