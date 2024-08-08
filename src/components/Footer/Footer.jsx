@@ -76,7 +76,7 @@ const Footer = () => {
 
               <p className="office__info">Email: <a href="mailto:sudarshantripathi00@gmail.com"> tripathitravels@gmail.com</a></p>
 
-              <p className="office__info">Office Time: 10am - 7pm</p>
+              <p className="office__info">Office Time: 10am - 10pm</p>
             </div>
           </Col>
 

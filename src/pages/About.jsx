@@ -66,8 +66,8 @@ const About = () => {
         <Container>
           <Row>
             <Col lg="12" className="mb-5 text-center">
-              <h6 className="section__subtitle">Experts</h6>
-              <h2 className="section__title">Our Members</h2>
+              <h6 className="section__subtitle">Reviews</h6>
+              <h2 className="section__title">Our Customers</h2>
             </Col>
             <OurMembers />
           </Row>
